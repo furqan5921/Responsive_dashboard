@@ -19,5 +19,4 @@
 
  ## Glipms of project
    - ### Dashboard 
-58
 <img src="https://i.imgur.com/ePZZDDd.png" />
