@@ -1,7 +1,5 @@
 
 # Dashboard 
-​
-​
 * [Click Here](https://fitbeo.vercel.app/) to view the deployed website.
 
 
